@@ -8,7 +8,7 @@ class Computador:
     pass
 
 computador1 = Computador('Asus','8gb','Nvidia')
-computador2 = Computador('Dell','10gb','GeForce')
+computador2 = Computador('Dell','12gb','GeForce')
 computador3 = Computador('Acer','16gb','ATN')
 print(computador1.marca,computador1.memoria_ram,computador1.placa_de_video)
 print(computador2.marca,computador2.memoria_ram,computador2.placa_de_video)
